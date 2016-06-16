@@ -5,7 +5,7 @@
   <groupId>com.bimarian.main</groupId>
   <artifactId>sample-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 
   <name>sample-project</name>
   <url>http://maven.apache.org</url>
